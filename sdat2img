@@ -1,0 +1,2 @@
+#!/bin/bash
+python ~/.bin/sdat2img.py system.transfer.list system.new.dat raw.img

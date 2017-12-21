@@ -1,0 +1,2 @@
+#!/bin/bash
+repo init -u $1 --depth=1 -b$2
