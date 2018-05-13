@@ -1,0 +1,3 @@
+#!/bin/bash
+brotli --decompress --input system.new.dat.br --output system.new.dat
+sdat2img
