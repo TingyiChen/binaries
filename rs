@@ -1,2 +1,2 @@
 #!/bin/bash
-repo sync -c -f --no-tags --no-clone-bundle
+repo sync -c --force-sync --no-tags --no-clone-bundle
